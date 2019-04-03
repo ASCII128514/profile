@@ -1,9 +1,9 @@
 /* import google fonts */
 @import url('https://fonts.googleapis.com/css?family=Astloch:400,700|Dokdo|Libre+Barcode+39|Pacifico');
-
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 body {
     /* set the font for the entire body */
-    font-family: 'Pacifico', cursive;
+    font-family: 'Permanent Marker', cursive;
     background-color: rgba(67, 94, 216, 0.589)
 }
 
@@ -30,10 +30,6 @@ a {
 p, h2, a {
     /* reduce the margin */
     margin: 5px;
-}
-
-ul {
-    padding: 0;
 }
 
 .avatar {
